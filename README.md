@@ -1,6 +1,6 @@
 # 🧠 Systematic Review & Meta-Analysis: Early-Life Antibiotic Exposure and Type 1 Diabetes Risk
 
-This repository contains the materials supporting a systematic review and meta-analysis (SRMA) investigating the association between **early-life antibiotic exposure** (prenatal and early postnatal) and the subsequent risk of developing **Type 1 Diabetes** in childhood.
+This repository contains the materials supporting a systematic review and meta-analysis (SRMA) investigating the association between **early-life antibiotic exposure** and the subsequent risk of developing **Type 1 Diabetes** in childhood.
 
 ## 📝 Overview
 
